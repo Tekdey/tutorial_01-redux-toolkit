@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "productName": "Bougies avec boix flotté 1",
+      "image": "Bougies",
+      "price": "20",
+      "category": "Bougies",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "productName": "Bougies avec boix flotté 2",
+      "image": "Bougies",
+      "price": "20",
+      "category": "Bougies",
+      "amount": 1
+    },
+    {
+      "id": 3,
+      "productName": "Bougies avec boix flotté 3",
+      "image": "Bougies",
+      "price": "20",
+      "category": "Bougies",
+      "amount": 1
+    },
+    {
+      "id": 4,
+      "productName": "Bougies avec boix flotté 4",
+      "image": "Bougies",
+      "price": "20",
+      "category": "Bougies",
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "productName": "Bougies avec boix flotté 5",
+      "image": "Bougies",
+      "price": "20",
+      "category": "Bougies",
+      "amount": 1
+    },
+    {
+      "id": 6,
+      "productName": "Bougies avec boix flotté 6",
+      "image": "Bougies",
+      "price": "20",
+      "category": "Bougies",
+      "amount": 1
+    }
+  ]
+  
